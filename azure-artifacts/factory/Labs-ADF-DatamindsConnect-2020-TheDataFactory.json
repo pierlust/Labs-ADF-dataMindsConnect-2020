@@ -1,9 +1,0 @@
-{
-	"name": "Labs-ADF-DatamindsConnect-2020-TheDataFactory",
-	"location": "westeurope",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "5b947dfe-7adc-4f4b-9d47-6a375059ee13",
-		"tenantId": "bb238cf5-66c9-4606-9852-a9f3e1782d63"
-	}
-}
