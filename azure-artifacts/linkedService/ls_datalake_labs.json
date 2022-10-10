@@ -1,0 +1,10 @@
+{
+	"name": "ls_datalake_labs",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://labsadfdataminds20201010.dfs.core.windows.net/"
+		}
+	}
+}
