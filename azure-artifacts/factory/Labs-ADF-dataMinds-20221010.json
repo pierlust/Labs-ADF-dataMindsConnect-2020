@@ -1,0 +1,9 @@
+{
+	"name": "Labs-ADF-dataMinds-20221010",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "11c83acb-c432-4081-a2c0-e313dad144f3",
+		"tenantId": "bb238cf5-66c9-4606-9852-a9f3e1782d63"
+	}
+}
