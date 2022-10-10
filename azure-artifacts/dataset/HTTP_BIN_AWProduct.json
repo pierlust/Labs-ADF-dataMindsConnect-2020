@@ -1,0 +1,16 @@
+{
+	"name": "HTTP_BIN_AWProduct",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_github_adventureworks_product",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation"
+			}
+		}
+	}
+}
